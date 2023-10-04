@@ -1,0 +1,16 @@
+.about-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.about-heading {
+    text-align:left;
+    display: flex;
+    justify-content:first baseline;
+    align-items: center;
+    height: 100vh; 
+}
+
